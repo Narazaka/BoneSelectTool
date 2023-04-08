@@ -1,0 +1,23 @@
+{
+  "name": "net.narazaka.unity.bone-tools.bone-select-tool",
+  "version": "1.0.0",
+  "displayName": "BoneSelectTool",
+  "description": "SkinnedMesh Bone Selector Window",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "dependencies": {
+  },
+  "vpmDependencies": {
+    "com.vrchat.avatars": "^3.1.0",
+    "net.narazaka.unity.bone-tools.bone-selector": "^1.0.0",
+    "net.narazaka.unity.bone-tools.physbone-selector": "^1.0.0"
+  },
+  "url" : "https://github.com/Narazaka/BoneSelectTool.git#v1.0.0",
+  "legacyFiles": {
+    "Assets\\Narazaka\\Unity\\Editor\\Util\\BoneSelectTool.cs": "f9044e318dfc68349ba12203e2cc9532"
+  }
+}
